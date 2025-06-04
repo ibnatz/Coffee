@@ -1,5 +1,4 @@
-## A sleek and modern mobile coffee ordering app built with React Native, Expo, and Firebase.
-## Users can browse coffee products, add items to cart or favorites, and complete orders using multiple payment options.
+## A sleek and modern mobile coffee ordering app built with React Native, Expo, and Firebase. Users can browse coffee products, add items to cart or favorites, and complete orders using multiple payment options.
 
 ### Features
 
